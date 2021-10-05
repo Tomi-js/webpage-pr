@@ -1,0 +1,352 @@
+body 
+{
+background-color: #ffffff;
+color: #000000;
+font-family:'lato',sans-serif;
+font-size: 17px;
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
+
+#container
+{
+    width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.kolortekstu
+{
+    color: #0a9125;
+    font-family:'lato',sans-serif;
+    font-size: 141px;
+	letter-spacing: 3px;
+	font-weight: 900;
+	text-shadow: 0px 0px 18px rgba(0,0,0,0.37);
+}
+
+#topbarR
+{
+	float: left;
+	padding: 20px;
+	width: 760px;
+	font-size: 16px;
+	text-align: justify;
+}
+
+#content
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 1000px;
+}
+
+#contentszkola
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 5350px;
+}
+
+#contentspichlerz
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 3230px;
+}
+
+#contentworcy
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 1190px;
+}
+
+#contentkosciol
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 1230px;
+}
+
+#contentedukacja
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 3080px;
+}
+
+#contenthistoria
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 2650px;
+}
+
+#contentmenu
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 1300px;
+}
+
+#contentkultura
+{
+	width: 1000px;
+	background-color: #e7e7e7;
+    text-align: justify;
+	padding: 20px;
+	min-height: 1710px;
+}
+
+.zdjecie
+{
+    padding: 30px;
+}
+
+#menu
+{
+	background-color: #d1d0d0;
+	margin-top: 20px;
+	color: #000000;
+	padding: 10px;
+	border-bottom: 1px solid #636363;
+}
+
+.option
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 20px;
+	padding: 10px;
+	border-right: 2px dotted #444444;
+	opacity: 0.8;
+	letter-spacing: 0px;
+}
+
+.option:hover
+{
+	background-color: #949494;
+	cursor: pointer;
+}
+
+.option1
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 20px;
+	padding: 10px;
+	opacity: 0.8;
+}
+
+.option1:hover
+{
+	background-color: #949494;
+	cursor: pointer;
+}
+
+a.titlelink
+{
+	color: #000000;
+	text-decoration: none;
+    display: block;
+}
+
+a.titlelink1
+{
+	color: #0a9125;
+	text-decoration: none;
+	display: block;
+}
+
+#sidebar
+{
+	float: left;
+	width: 100px;
+	height: auto;
+	padding: 15px;
+	background-color: #d1d0d0;
+	text-align: center;
+	font-size: 18px;
+	border-right: 1px solid #636363;
+	border-bottom: 1px solid #636363;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+
+.spis
+{
+	font-size:13px;
+	height:auto;
+	padding: 10px;
+	border-bottom: 2px dotted #444444;
+	opacity: 0,8;
+}
+
+.spis1
+{
+	font-size:13px;
+	height:auto;
+	padding: 10px;
+	border-bottom: 2px dotted #444444;
+	border-top: 2px dotted #444444;
+	opacity: 0,8;
+}
+
+.spisend
+{
+    font-size:13px;
+	height:auto;
+	padding: 10px;
+	opacity: 0,8;	
+}
+
+
+.spis:hover
+{
+	background-color: #949494;
+	cursor: pointer;
+}
+
+.spis1:hover
+{
+	background-color: #949494;
+	cursor: pointer;
+}
+
+.spisend:hover
+{
+	background-color: #949494;
+	cursor: pointer;
+}
+
+#zawartosc
+{
+	float: left;
+	padding: 20px;
+	width: 829px;
+	text-align: justify;
+	padding-top: 0px;
+}
+
+.spistresci
+{
+	border-bottom: 1px solid #636363;
+	font-size: 25px;
+	padding: 10px;
+	color: #0a9125;
+	text-shadow: 0px 0px 15px rgba(0,0,0,0.37);
+	letter-spacing: 2px;
+}
+
+.dyrektorzy
+{
+	
+    font-size: 30px;
+}
+
+#zdjecie23
+{
+	padding: 15px;
+	padding-left: 0px;
+	width: 869px;
+}
+
+.tekstszkola
+{
+	padding-top: 20px;
+}
+
+.tworcy
+{
+	font-size: 20px;
+}
+
+.h1tworcy
+{
+	font-size: 27px;
+}
+
+#zrodlo
+{
+	font-size: 10px;
+	text-align: center;
+}
+
+#podtytul
+{
+	font-size: 26px;
+}
+
+#podtytul1
+{
+	font-size: 26px;
+	padding-top: 33px;
+}
+
+#tresc21
+{
+	padding: 10px;
+	padding-left: 0px;
+}
+
+#podtresc
+{
+	font-size: 15px;
+}
+
+a.titlelink2
+{
+	color: #000000;
+    display: block;
+}
+
+#skowr
+{
+	font-size: 17px;
+}
+
+#skowr1
+{
+	font-size: 15px;
+}
+
+.option2
+{
+	float: left;
+	min-width: 50px;
+	height: 25px;
+	font-size: 17px;
+	padding: 10px;
+	border-right: 2px dotted #444444;
+	opacity: 0.8;
+	letter-spacing: 0px;
+	padding-top: 13px;
+	padding-bottom: 7px;
+}
+
+.option2:hover
+{
+	background-color: #949494;
+	cursor: pointer;
+}
